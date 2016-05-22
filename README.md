@@ -3,7 +3,7 @@ Mini compiler of C programming language
 
 Features
 
-- Lexic analyze
-- Sintactic analyze
-- Create sintactic tree
-- Semantic analyze (in progress)
+- Lexical analysis
+- Syntactic analysis
+- Create syntactic tree
+- Semantical analysis (in progress)
